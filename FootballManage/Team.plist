@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>teamId</key>
+		<integer>1</integer>
+		<key>teamName</key>
+		<string>Manchester United</string>
+		<key>logoName</key>
+		<string>Manchester Utd.jpg</string>
+		<key>coachName</key>
+		<string>Alex Ferguson</string>
+		<key>stadiumName</key>
+		<string>Old Trafford</string>
+	</dict>
+	<dict>
+		<key>teamId</key>
+		<integer>2</integer>
+		<key>teamName</key>
+		<string>Real Madrid</string>
+		<key>logoName</key>
+		<string>Real.jpeg</string>
+		<key>coachName</key>
+		<string>Mourinho</string>
+		<key>stadiumName</key>
+		<string>Becnambeu</string>
+	</dict>
+	<dict>
+		<key>teamId</key>
+		<integer>3</integer>
+		<key>teamName</key>
+		<string>Chelsea</string>
+		<key>logoName</key>
+		<string>Chelsea.jpeg</string>
+		<key>coachName</key>
+		<string>Rafael Benitez</string>
+		<key>stadiumName</key>
+		<string>Stamford Bridge</string>
+	</dict>
+	<dict>
+		<key>teamId</key>
+		<integer>4</integer>
+		<key>teamName</key>
+		<string>Arsenal</string>
+		<key>logoName</key>
+		<string>Arsenal.jpg</string>
+		<key>coachName</key>
+		<string>Arsene Wenger</string>
+		<key>stadiumName</key>
+		<string>Emirates</string>
+	</dict>
+	<dict>
+		<key>teamId</key>
+		<integer>5</integer>
+		<key>teamName</key>
+		<string>Liverpool</string>
+		<key>logoName</key>
+		<string>Liverpool.jpeg</string>
+		<key>coachName</key>
+		<string>Brendan Rodgers</string>
+		<key>stadiumName</key>
+		<string>Anfield</string>
+	</dict>
+</array>
+</plist>
